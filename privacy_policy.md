@@ -12,11 +12,14 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to nickname, ip address. The information that I request will be retained on your device and is not collected by me in any way.
 
-The app does use third-party services that may collect information used to identify you.
+The app does not use third-party services that may collect information used to identify you.
 
 Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
+
+**Location Data**
+The Vsales app requests access to your device's location to provide you with location-based services and features. This includes GPS tracking, tracking current user. Your location data is used solely within the app and is not transmitted to or stored by VENONS LTD. You can enable or disable location services in your device settings or within the app's settings.
 
 **Log Data**
 
