@@ -19,6 +19,7 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 
 **Location Data**
+
 The Vsales app requests access to your device's location to provide you with location-based services and features. This includes GPS tracking, tracking current user. Your location data is used solely within the app and is not transmitted to or stored by VENONS LTD. You can enable or disable location services in your device settings or within the app's settings.
 
 **Log Data**
